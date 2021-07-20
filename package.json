@@ -1,0 +1,15 @@
+{
+  "name": "eagle-aerline",
+  "version": "1.0.0",
+  "description": "Airlines Project for Prectice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "airlines"
+  ],
+  "author": "Dhruvik",
+  "license": "ISC"
+}
